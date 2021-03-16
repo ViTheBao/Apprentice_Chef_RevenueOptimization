@@ -1,4 +1,4 @@
-# Apprentice_Chef_ClassificationModelling
+# Apprentice Chef_Classification Analysis
 Built a predictive model on a binomial response variable (Y-variable). 
 Using essential Python packages such as; NumPy, pandas, matplotlib and seaborn. While focusing on machine learning packages such as SciKitLearn and statsmodels. 
 This classification modelling focused on feature engineering, model preparation, variable selection, and model development. 
